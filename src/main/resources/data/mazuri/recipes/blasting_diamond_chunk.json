@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "mazuri:diamond_chunk"
+  },
+  "result": "mazuri:coin_100",
+  "experience": 2,
+  "cookingtime": 100
+}

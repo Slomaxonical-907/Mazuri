@@ -1,10 +1,10 @@
 {
-  "items.mazuri.coin_1" : "Idk Mazuri",
-  "items.mazuri.coin_5" : "Iron Mazuri",
-  "items.mazuri.coin_20": "Golden Mazuri",
-  "items.mazuri.coin_100": "Diamond Mazuri ",
+  "item.mazuri.coin_1" : "Idk Mazuri",
+  "item.mazuri.coin_5" : "Iron Mazuri",
+  "item.mazuri.coin_20": "Golden Mazuri",
+  "item.mazuri.coin_100": "Diamond Mazuri ",
 
-  "items.mazuri.iron_chunk" : "Iron Chunk",
-  "items.mazuri.gold_chunk" : "Gold Chunk",
-  "items.mazuri.diamond_chunk" : "Diamond Chunk"
+  "item.mazuri.iron_chunk" : "Iron Chunk",
+  "item.mazuri.gold_chunk" : "Gold Chunk",
+  "item.mazuri.diamond_chunk" : "Diamond Chunk"
 }
