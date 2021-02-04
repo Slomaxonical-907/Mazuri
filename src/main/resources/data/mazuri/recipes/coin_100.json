@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "###",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "mazuri:coin_20"
+    }
+  },
+  "result": {
+    "item": "mazuri:coin_100",
+    "count": 1
+  }
+}

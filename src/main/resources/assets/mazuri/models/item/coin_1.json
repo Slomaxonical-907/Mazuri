@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "mazuri:items/coin_5"
+    "layer0": "mazuri:items/coin_1"
   }
 }
