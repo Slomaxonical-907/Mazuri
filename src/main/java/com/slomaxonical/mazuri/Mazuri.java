@@ -1,5 +1,6 @@
 package com.slomaxonical.mazuri;
 
+import com.slomaxonical.mazuri.registery.ModItems;
 import net.fabricmc.api.ModInitializer;
 
 public class Mazuri implements ModInitializer {
@@ -9,6 +10,6 @@ public class Mazuri implements ModInitializer {
 
     @Override
     public void onInitialize() {
-
+        ModItems.registerItems();
     }
 }

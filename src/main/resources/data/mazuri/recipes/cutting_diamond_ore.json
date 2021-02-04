@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "minecraft:diamond_ore"
+  },
+  "result": "mazuri:diamond_chunk",
+  "count": 1
+}
