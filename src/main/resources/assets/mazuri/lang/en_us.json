@@ -1,11 +1,13 @@
 {
+  "itemGroup.mazuri.mazuri_group" : "Mazuri Ⓜ",
+
   "item.mazuri.coin_1" : "1 Ⓜ",
   "item.mazuri.coin_5" : "5 Ⓜ",
   "item.mazuri.coin_20": "20 Ⓜ",
   "item.mazuri.coin_100": "100 Ⓜ",
   "item.mazuri.coin_1000": "1000 Ⓜ",
 
-  "item.mazuri.iron_chunk" : "Iron Chunk",
-  "item.mazuri.gold_chunk" : "Gold Chunk",
-  "item.mazuri.diamond_chunk" : "Diamond Chunk"
+  "item.mazuri.iron_chunk" : "Iron Chunks",
+  "item.mazuri.gold_chunk" : "Gold Chunks",
+  "item.mazuri.diamond_chunk" : "Diamond Chunks"
 }

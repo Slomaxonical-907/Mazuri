@@ -10,15 +10,15 @@ public class ModItems {
 
     //items
         //chunks
-    public static final Item IRON_CHUNK = new Item(new Item.Settings().group(ItemGroup.MATERIALS));
-    public static final Item GOLD_CHUNK = new Item(new Item.Settings().group(ItemGroup.MATERIALS));
-    public static final Item DIAMOND_CHUNK = new Item(new Item.Settings().group(ItemGroup.MATERIALS));
+    public static final Item IRON_CHUNKS = new Item(new Item.Settings().group(Mazuri.MAZURI_GROUP));
+    public static final Item GOLD_CHUNKS = new Item(new Item.Settings().group(Mazuri.MAZURI_GROUP));
+    public static final Item DIAMOND_CHUNKS = new Item(new Item.Settings().group(Mazuri.MAZURI_GROUP));
         //coins
-    public static final Item COIN_ONE = new Item(new Item.Settings().group(ItemGroup.MISC));
-    public static final Item COIN_FIVE = new Item(new Item.Settings().group(ItemGroup.MISC));
-    public static final Item COIN_TWENTY = new Item(new Item.Settings().group(ItemGroup.MISC));
-    public static final Item COIN_HUNDRED = new Item(new Item.Settings().group(ItemGroup.MISC));
-    public static final Item COIN_THOUSAND = new Item(new Item.Settings().group(ItemGroup.MISC));
+    public static final Item COIN_ONE = new Item(new Item.Settings().group(Mazuri.MAZURI_GROUP));
+    public static final Item COIN_FIVE = new Item(new Item.Settings().group(Mazuri.MAZURI_GROUP));
+    public static final Item COIN_TWENTY = new Item(new Item.Settings().group(Mazuri.MAZURI_GROUP));
+    public static final Item COIN_HUNDRED = new Item(new Item.Settings().group(Mazuri.MAZURI_GROUP));
+    public static final Item COIN_THOUSAND = new Item(new Item.Settings().group(Mazuri.MAZURI_GROUP));
 
 
     //RegisterItems
@@ -29,9 +29,9 @@ public class ModItems {
         Registry.register(Registry.ITEM, new Identifier(Mazuri.MOD_ID, "coin_100"), COIN_HUNDRED );
         Registry.register(Registry.ITEM, new Identifier(Mazuri.MOD_ID, "coin_1000"), COIN_THOUSAND );
 
-        Registry.register(Registry.ITEM, new Identifier(Mazuri.MOD_ID, "iron_chunk"), IRON_CHUNK );
-        Registry.register(Registry.ITEM, new Identifier(Mazuri.MOD_ID, "gold_chunk"), GOLD_CHUNK );
-        Registry.register(Registry.ITEM, new Identifier(Mazuri.MOD_ID, "diamond_chunk"), DIAMOND_CHUNK );
+        Registry.register(Registry.ITEM, new Identifier(Mazuri.MOD_ID, "iron_chunk"), IRON_CHUNKS );
+        Registry.register(Registry.ITEM, new Identifier(Mazuri.MOD_ID, "gold_chunk"), GOLD_CHUNKS );
+        Registry.register(Registry.ITEM, new Identifier(Mazuri.MOD_ID, "diamond_chunk"), DIAMOND_CHUNKS );
 
 
     }
