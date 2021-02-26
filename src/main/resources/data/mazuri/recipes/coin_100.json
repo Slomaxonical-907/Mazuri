@@ -1,15 +1,22 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    " # ",
-    "###",
-    " # "
-  ],
-  "key": {
-    "#": {
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "mazuri:coin_20"
+    },
+    {
+      "item": "mazuri:coin_20"
+    },
+    {
+      "item": "mazuri:coin_20"
+    },
+    {
+      "item": "mazuri:coin_20"
+    },
+    {
       "item": "mazuri:coin_20"
     }
-  },
+  ],
   "result": {
     "item": "mazuri:coin_100",
     "count": 1

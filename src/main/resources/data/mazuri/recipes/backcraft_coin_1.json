@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "mazuri:coin_5"
+    }
+  ],
+  "result": {
+    "item": "mazuri:coin_1",
+    "count": 5
+  }
+}
